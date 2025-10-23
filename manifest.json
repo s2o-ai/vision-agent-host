@@ -1,0 +1,27 @@
+{
+  "short_name": "Vision Agent AI",
+  "name": "Vision Agent AI - Next-Generation Computer Vision Platform",
+  "description": "Transform your autonomous systems with cutting-edge computer vision technology",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' fill='%233b82f6' rx='40'/><g fill='white'><circle cx='96' cy='76' r='28'/><circle cx='78' cy='108' r='10'/><circle cx='114' cy='108' r='10'/><path d='M70 140 Q96 165 122 140' stroke='white' stroke-width='6' fill='none'/></g></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' fill='%233b82f6' rx='100'/><g fill='white'><circle cx='256' cy='200' r='75'/><circle cx='206' cy='288' r='28'/><circle cx='306' cy='288' r='28'/><path d='M180 380 Q256 440 332 380' stroke='white' stroke-width='16' fill='none'/></g></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#3b82f6",
+  "background_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en-US",
+  "dir": "ltr"
+} 
